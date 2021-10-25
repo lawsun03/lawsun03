@@ -1,4 +1,5 @@
-<img width="849" alt="Screen Shot 2021-10-25 at 11 14 53 AM" src="https://user-images.githubusercontent.com/86628578/138748761-7541bf4e-3a07-400f-80c6-ddebe0110649.png">
+<img width="393" alt="Screen Shot 2021-10-25 at 11 20 28 AM" src="https://user-images.githubusercontent.com/86628578/138749129-b947384a-aac8-4a56-83ab-8cb60ebedc73.png">
+
 
 
 👋 Hi there! I’m Lawrence, a Full-Stack Software Engineer and recent Hack Reactor Graduate.
