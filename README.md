@@ -4,7 +4,7 @@
 
 👋 Hi there! I’m Lawrence, a Full-Stack Software Engineer and recent Hack Reactor Graduate.
 
-Let's connect! E-mail me at: alawrencesung@gmail.com
+Let's connect! E-mail me at: alawrencesun@gmail.com
 
 <a href="https://www.linkedin.com/in/lsun0">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
